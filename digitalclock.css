@@ -1,0 +1,21 @@
+
+@font-face{
+    font-family:"gs";
+    src: url("./digi.tff");
+}
+
+#clock{
+    font-size: 175px;
+    width:1100px;
+    margin: 200px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-family: "gs";
+
+}
+body {
+    color: #ffffff;
+    background-color: #000000;
+    font-family: 'digital-7', sans-serif;
+  }
